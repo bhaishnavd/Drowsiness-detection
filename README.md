@@ -15,7 +15,7 @@ A **real-time drowsiness detection** application that monitors eye state (open/c
 - **OpenCV** – For face and eye detection  
 - **TensorFlow / Keras** – For CNN model training and prediction  
 - **NumPy** – Data processing  
-- **Streamlit ** – GUI interface for easy usage  
+- **Streamlit** – GUI interface for easy usage  
 
 ## Installation 💻
 1. **Clone the repository**
